@@ -1,2 +1,2 @@
-git pull git@github.com:kparames/devops.git
-
+#push to main
+git push -u origin main
